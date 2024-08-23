@@ -61,13 +61,6 @@ If you’re new to Go, here are a few resources that might help you get up to sp
 - [ ] Refactor and optimize solutions for better performance.
 - [ ] Add more comments and documentation for clarity.
 - [ ] Explore advanced Go concepts beyond the Piscine program.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Feel free to explore, learn, and contribute! If you have any suggestions or spot an issue, open an [issue](https://github.com/yourusername/piscine-go/issues) or a pull request. Let’s code together and make this repository a great learning resource! 💻🚀
 ```
 
