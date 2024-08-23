@@ -1,4 +1,4 @@
-Here’s a more dynamic and engaging `README.md` template for your Piscine Go project:
+
 
 ```markdown
 # 🚀 Piscine Go Adventures
