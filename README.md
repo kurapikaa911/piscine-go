@@ -22,7 +22,7 @@ This repository is organized into multiple challenges, each with its own directo
 
 2. **Navigate to a Challenge:**
    ```bash
-   cd piscine-go/challenge01
+   cd piscine-go/quest-01
    ```
 
 3. **Run the Code:**
