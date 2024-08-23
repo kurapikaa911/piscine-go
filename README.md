@@ -17,7 +17,7 @@ This repository is organized into multiple challenges, each with its own directo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/piscine-go.git
+   git clone https://github.com/kurapikaa911/piscine-go.git
    ```
 
 2. **Navigate to a Challenge:**
